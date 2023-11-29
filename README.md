@@ -13,7 +13,8 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference
+Jobsque is a mobile application developed using Flutter that helps users find and apply for jobs. It utilizes API integration with Dio for retrieving job data and SharedPreferences as a local database for storing user preferences and application state .
 ![d8552257-58c9-401f-a5e2-3c70c2183f45](https://github.com/ahmedamgaddd/jopp_app/assets/137118207/b83fba54-067a-4a12-ac53-00572d843b07)
 ![78eb308e-4480-4780-bc31-9a3409ff6128](https://github.com/ahmedamgaddd/jopp_app/assets/137118207/612e6a14-c43d-4811-bbb4-c97cefa8078f)
 ![8603a523-4021-422a-9a5f-90f2cdda0952](https://github.com/ahmedamgaddd/jopp_app/assets/137118207/00c72e24-b66f-4e3b-9bec-ce890a263ab9)
